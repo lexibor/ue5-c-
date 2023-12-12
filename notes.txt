@@ -1,1 +1,18 @@
-testing commit
+UNREAL ENGINE 5
+
+##### KEYBINDS #####
+
+"G":
+    - removes on game ui like the placing of audio for example
+
+ALT + (any directional mobility arrow):
+    - moves camera with the object that's being moved
+
+##### ENVIRONMENT #####
+
+MAKING A SKY: 
+    - Sky Atmosphere
+    - Directional Light
+    - Sky Light
+    - Exponential Height Fog
+    - Volumetric Clouds
