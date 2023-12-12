@@ -1,12 +1,29 @@
 UNREAL ENGINE 5
 
+##### SETTINGS #####
+
+Edit + Project Settings + Maps & Modes:
+    - setting the default level on startup
+
+
 ##### KEYBINDS #####
 
-"G":
+'G' (Game Mode):
     - removes on game ui like the placing of audio for example
+
+"F11" (Immersive Mode):
+    - zooms into game space and removes the ue5 ui
 
 ALT + (any directional mobility arrow):
     - moves camera with the object that's being moved
+
+CTRL + 'L':
+    - move the sun's position with mouse
+    - have to constantly hold down CTRL 
+
+CTRL + SHIFT + 'L':
+    - to move a second sun (if there is one)
+    - have to constantly hold down CTLR + SHIFT
 
 ##### ENVIRONMENT #####
 
